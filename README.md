@@ -9,8 +9,8 @@ Thinking about adding 'stacking block' nubs and holes so blocks can be attached.
 
 
 ## Bottom Plate ##
-File: BBB_MHandPH.dxf
-Currently: Port Holes could be shrunk to be a little tighter, specifically in the y axis.
+__File:__ BBB_MHandPH.dxf  
+__Currently:__ Port Holes could be shrunk to be a little tighter, specifically in the y axis.
 
 
 # TO DO #
